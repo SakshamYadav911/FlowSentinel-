@@ -4,7 +4,7 @@ Predictive patient journey and bottleneck cascade early-warning system for the *
 
 ---
 
-## 🚀 How to Run the App Locally in PyCharm
+## How to Run the App Locally in PyCharm
 
 This project contains two components:
 1. **The Interactive Web Command Center** (built with React, TypeScript, Vite & Tailwind CSS)

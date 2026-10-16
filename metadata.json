@@ -1,0 +1,6 @@
+{
+  "name": "FlowSentinel - Hospital Flow & Bottleneck Predictor",
+  "description": "Predictive patient journey and bottleneck cascade early-warning system for hospital operations and forgotten patient detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
